@@ -2,7 +2,7 @@
 
 **Full-Stack .NET Developer**: I build and modernize the business systems (ERP, CRM, stock, invoicing) that companies run on every day.
 
-5+ years on a production ERP: migrating legacy ASP.NET WebForms to .NET 8, tuning SQL Server, and plugging in automation and APIs, without breaking what already works.
+5+ years on a production ERP: migrating legacy ASP.NET WebForms to .NET 10 and Blazor, tuning SQL Server, and plugging in automation and APIs, without breaking what already works.
 
 🌐 **Portfolio:** [souna-elhassan.com](https://www.souna-elhassan.com) · 💼 **LinkedIn:** [souna-elhassan](https://linkedin.com/in/souna-elhassan) · ✉️ contact@souna-elhassan.com
 
@@ -24,8 +24,9 @@
 
 ### 🏭 From production (private, employer code)
 
-- **Legacy modernization**: incremental migration of a 10-year-old WebForms ERP to .NET 8 / Razor Pages with no downtime. [Case study →](https://www.souna-elhassan.com/#cases)
-- **SQL performance**: rewrote critical stored procedures, from 60–90 s down to about 500 ms. [Case study →](https://www.souna-elhassan.com/#cases)
+- **Legacy modernization**: strangler-fig migration of a 10-year-old WebForms ERP to .NET 10 / Blazor, one module at a time, validated first with a .NET 8 Razor Pages pilot. [Case study →](https://www.souna-elhassan.com/#cases)
+- **Internal tool on .NET 10 / Blazor**: built and running in production, with EF Core 10, Active Directory sign-in, xUnit unit and integration tests, and CI on GitHub Actions.
+- **SQL performance**: rewrote a critical stored procedure, from 60–90 s down to about 500 ms. [Case study →](https://www.souna-elhassan.com/#cases)
 - **Design system**: moved 305 hardcoded colors to tokens and added dark mode with no regressions.
 - **Automation**: document processing with the Anthropic Claude API; PDF/Word/Excel reporting engine; Power BI dashboards.
 
@@ -34,7 +35,7 @@
 | Project | What it shows | Status |
 |---|---|---|
 | **erp-lite** | Mini stock & invoicing ERP: ASP.NET Core API + Blazor, Clean Architecture, EF Core, Docker, CI/CD, Azure | 🔨 In progress |
-| **webforms-to-razor-migration-demo** | Step-by-step strangler-fig migration from WebForms to Razor Pages | 📅 Planned |
+| **webforms-to-blazor-migration-demo** | Step-by-step strangler-fig migration from WebForms to .NET 10 / Blazor | 📅 Planned |
 | **sql-perf-lab** | Slow vs. optimized stored procedures, with execution plans and benchmarks | 📅 Planned |
 | **claude-doc-automation** | .NET service that pulls structured data out of documents with the Claude API | 📅 Planned |
 
