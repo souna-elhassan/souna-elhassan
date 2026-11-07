@@ -4,7 +4,7 @@
 
 5+ years on a production ERP: migrating legacy ASP.NET WebForms to .NET 8, tuning SQL Server, and plugging in automation and APIs, without breaking what already works.
 
-🌐 **Portfolio:** [souna-elhassan.com](https://www.souna-elhassan.com) · 💼 **LinkedIn:** [souna-elhassan](https://linkedin.com/in/souna-elhassan) · ✉️ contact@souna.dev
+🌐 **Portfolio:** [souna-elhassan.com](https://www.souna-elhassan.com) · 💼 **LinkedIn:** [souna-elhassan](https://linkedin.com/in/souna-elhassan) · ✉️ contact@souna-elhassan.com
 
 ---
 
