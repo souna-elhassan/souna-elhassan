@@ -34,7 +34,7 @@
 
 | Project | What it shows | Status |
 |---|---|---|
-| **erp-lite** | Mini stock & invoicing ERP: ASP.NET Core API + Blazor, Clean Architecture, EF Core, Docker, CI/CD, Azure | 🔨 In progress |
+| **erp-lite** | Mini stock & invoicing ERP: ASP.NET Core API + Angular, Clean Architecture, EF Core, Docker, CI/CD, Azure | 🔨 In progress |
 | **webforms-to-blazor-migration-demo** | Step-by-step strangler-fig migration from WebForms to .NET 10 / Blazor | 📅 Planned |
 | **sql-perf-lab** | Slow vs. optimized stored procedures, with execution plans and benchmarks | 📅 Planned |
 | **claude-doc-automation** | .NET service that pulls structured data out of documents with the Claude API | 📅 Planned |
