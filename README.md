@@ -1,6 +1,6 @@
 # Hi, I'm Souna El Hassan 👋
 
-**Full-Stack .NET Developer**: I build and modernize the business systems (ERP, CRM, stock, invoicing) that companies run on every day.
+**.NET Architecture & Business Systems Modernization · IT Governance**: I build and modernize the business systems (ERP, CRM, stock, invoicing) that companies run on every day, with a focus on security, steering and governance.
 
 5+ years on a production ERP: migrating legacy ASP.NET WebForms to .NET 10 and Blazor, tuning SQL Server, and plugging in automation and APIs, without breaking what already works.
 
